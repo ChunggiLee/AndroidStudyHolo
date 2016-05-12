@@ -38,8 +38,11 @@ Android Holo Color Generator 를 이용한 안드로이드 layout
 (복사한 이미지)
 
 8. styles.xml 파일에서 에러가 났는데 수정해보도록 하죠.
-이 에러는 이미지 파일이 없어서 발생한 에러입니다.
+이 에러는 이미지 파일과 xml이 없어서 발생한 에러입니다.
 다운로드 받은 파일 안에서 이 4개의 폴더를 (drawable-hdpi, drawable-mdpi, drawable-xhdpi, drawable-xxhdpi) control + c한 후 안드로이드 스튜디오 drawable 폴더에 control + v합니다.
 
+9. 이제 drawable 폴더에 xml파일을 추가하다록 하죠.
+다운로드 받은 폴더에서 drawable안에 있는 모든 xml 파일을 안드로이드 스튜디오 drawable에 추가해주면 됩니다.
+xml 파일과 여기잇는 변수들과 이름이 같아야합니다.
 
 
